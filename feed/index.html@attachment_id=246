@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 9588A2B4-3B61-462F-8FD5-61F411F44183	</title>
+	<atom:link href="http://glassactstudio.ca/feed/?attachment_id=246" rel="self" type="application/rss+xml" />
+	<link>http://glassactstudio.ca/9588a2b4-3b61-462f-8fd5-61f411f44183/</link>
+	<description>Custom Stained Glass</description>
+	<lastBuildDate>Sun, 09 Feb 2020 16:13:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+</channel>
+</rss>
